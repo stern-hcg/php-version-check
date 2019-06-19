@@ -1,0 +1,744 @@
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/sqlite/sqlite_driver.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 11 ERRORS AFFECTING 10 LINES
+-------------------------------------------------------------------------------------------------------------------
+  60 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+  85 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 155 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 170 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 291 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 314 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 327 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 426 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 426 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 439 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 650 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/sqlite/sqlite_result.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 8 ERRORS AFFECTING 8 LINES
+-------------------------------------------------------------------------------------------------------------------
+  37 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+  50 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+  68 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+  90 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 128 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 143 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 160 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 164 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/mysql/mysql_result.php
+-----------------------------------------------------------------------------------------------------------------
+FOUND 8 ERRORS AFFECTING 8 LINES
+-----------------------------------------------------------------------------------------------------------------
+  37 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+  50 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+  66 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+  87 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 118 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 137 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 152 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 167 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+-----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/mysql/mysql_utility.php
+------------------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+------------------------------------------------------------------------------------------------------------------
+ 146 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 150 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/mysql/mysql_driver.php
+----------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 16 ERRORS AFFECTING 15 LINES
+----------------------------------------------------------------------------------------------------------------------------------------------
+  73 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+  91 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 107 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 123 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 141 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 146 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 150 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 179 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 315 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 319 | ERROR | Function mysql_escape_string() is deprecated since PHP 5.3 and removed since PHP 7.0; Use mysqli::real_escape_string() instead
+ 319 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 345 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 358 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 457 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 470 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 772 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/mysqli/mysqli_driver.php
+----------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------------------------------------
+ 320 | ERROR | Function mysql_escape_string() is deprecated since PHP 5.3 and removed since PHP 7.0; Use mysqli::real_escape_string() instead
+ 320 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/mssql/mssql_driver.php
+-----------------------------------------------------------------------------------------------------------------
+FOUND 7 ERRORS AFFECTING 7 LINES
+-----------------------------------------------------------------------------------------------------------------
+  63 | ERROR | Extension 'mssql' is removed since PHP 7.0
+  81 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 112 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 143 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 290 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 441 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 659 | ERROR | Extension 'mssql' is removed since PHP 7.0
+-----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/drivers/mssql/mssql_result.php
+-----------------------------------------------------------------------------------------------------------------
+FOUND 8 ERRORS AFFECTING 8 LINES
+-----------------------------------------------------------------------------------------------------------------
+  37 | ERROR | Extension 'mssql' is removed since PHP 7.0
+  50 | ERROR | Extension 'mssql' is removed since PHP 7.0
+  66 | ERROR | Extension 'mssql' is removed since PHP 7.0
+  87 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 113 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 132 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 147 | ERROR | Extension 'mssql' is removed since PHP 7.0
+ 162 | ERROR | Extension 'mssql' is removed since PHP 7.0
+-----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/database/DB_driver.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1182 | WARNING | Since PHP 7.0, functions inspecting arguments, like debug_backtrace(), no longer report the original value as passed to a parameter, but will instead provide
+      |         | the current value. The parameter "$native" was used, and possibly changed (by reference), on line 1169.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/core/compat/standard.php
+--------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------------
+ 341 | WARNING | INI directive 'mbstring.func_overload' is deprecated since PHP 7.2
+--------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/core/compat/password.php
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+ 121 | ERROR | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+ 121 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 121 | ERROR | The constant "MCRYPT_DEV_URANDOM" is deprecated since PHP 7.1 and removed since PHP 7.2
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/core/CodeIgniter.php
+------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AND 3 WARNINGS AFFECTING 4 LINES
+------------------------------------------------------------------------------------------------------------
+  88 | ERROR   | INI directive 'magic_quotes_runtime' is deprecated since PHP 5.3 and removed since PHP 5.4
+  90 | WARNING | INI directive 'register_globals' is deprecated since PHP 5.3 and removed since PHP 5.4
+ 249 | WARNING | INI directive 'mbstring.internal_encoding' is deprecated since PHP 5.6
+ 266 | WARNING | INI directive 'iconv.internal_encoding' is deprecated since PHP 5.6
+------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/core/Common.php
+------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------
+ 94 | WARNING | INI directive 'safe_mode' is deprecated since PHP 5.3 and removed since PHP 5.4
+------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/core/Security.php
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 2 LINES
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+ 354 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 613 | ERROR   | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+ 613 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 613 | ERROR   | The constant "MCRYPT_DEV_URANDOM" is deprecated since PHP 7.1 and removed since PHP 7.2
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Email.php
+-------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------
+ 421 | WARNING | INI directive 'safe_mode' is deprecated since PHP 5.3 and removed since PHP 5.4
+-------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Encryption.php
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 53 ERRORS AFFECTING 26 LINES
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+ 236 | ERROR | Function mcrypt_list_algorithms() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 236 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 262 | ERROR | Function mcrypt_enc_get_algorithms_name() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 262 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 263 | ERROR | Function mcrypt_enc_get_modes_name() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 263 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 266 | ERROR | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 266 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 269 | ERROR | Function mcrypt_module_open() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 269 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 346 | ERROR | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+ 346 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 346 | ERROR | The constant "MCRYPT_DEV_URANDOM" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 402 | ERROR | Function mcrypt_enc_get_iv_size() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 402 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 403 | ERROR | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+ 403 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 403 | ERROR | The constant "MCRYPT_DEV_URANDOM" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 406 | ERROR | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 406 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 410 | ERROR | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 410 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 418 | ERROR | Function mcrypt_enc_get_modes_name() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 418 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 420 | ERROR | Function mcrypt_enc_get_block_size() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 420 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 436 | ERROR | Function mcrypt_enc_get_modes_name() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 436 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 437 | ERROR | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 437 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 438 | ERROR | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 438 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 440 | ERROR | Function mcrypt_generic_deinit() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 440 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 443 | ERROR | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 443 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 561 | ERROR | Function mcrypt_enc_get_iv_size() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 561 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 563 | ERROR | Function mcrypt_enc_get_modes_name() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 563 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 579 | ERROR | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 579 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 583 | ERROR | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 583 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 589 | ERROR | Function mdecrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 591 | ERROR | Function mcrypt_enc_get_modes_name() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 591 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 596 | ERROR | Function mcrypt_generic_deinit() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 596 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 599 | ERROR | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 599 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 732 | ERROR | Function mcrypt_module_open() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 732 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Image_lib.php
+-------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------
+ 1757 | WARNING | Function dl() is deprecated since PHP 5.3
+-------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Xmlrpc.php
+----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 7 WARNINGS AFFECTING 7 LINES
+----------------------------------------------------------------------------------------------
+  463 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+  935 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+  997 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 1566 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 1636 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 1827 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 1891 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+----------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Upload.php
+--------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------------
+ 1267 | WARNING | INI directive 'safe_mode' is deprecated since PHP 5.3 and removed since PHP 5.4
+--------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Encrypt.php
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 14 ERRORS AFFECTING 8 LINES
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+ 208 | ERROR | The constant "MCRYPT_MODE_ECB" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 297 | ERROR | Function mcrypt_get_iv_size() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 297 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 298 | ERROR | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+ 298 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 298 | ERROR | The constant "MCRYPT_RAND" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 299 | ERROR | Function mcrypt_encrypt() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 299 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 314 | ERROR | Function mcrypt_get_iv_size() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 314 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 323 | ERROR | Function mcrypt_decrypt() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 323 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 431 | ERROR | The constant "MCRYPT_RIJNDAEL_256" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 448 | ERROR | The constant "MCRYPT_MODE_CBC" is deprecated since PHP 7.1 and removed since PHP 7.2
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Xmlrpcs.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 2 WARNINGS AFFECTING 4 LINES
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 403 | ERROR   | Indirect access to variables, properties and methods will be evaluated strictly in left-to-right order since PHP 7.0. Use curly braces to remove ambiguity.
+ 407 | ERROR   | Indirect access to variables, properties and methods will be evaluated strictly in left-to-right order since PHP 7.0. Use curly braces to remove ambiguity.
+ 587 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 607 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/libraries/Session/Session.php
+-------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------------------
+ 317 | ERROR | INI directive 'session.hash_function' is removed since PHP 7.1
+ 318 | ERROR | INI directive 'session.hash_bits_per_character' is removed since PHP 7.1
+-------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/system/helpers/inflector_helper.php
+------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+------------------------------------------------------------------------------------------------------
+  66 | ERROR | The function is_countable() is not present in PHP version 7.2 or earlier
+ 130 | ERROR | The function is_countable() is not present in PHP version 7.2 or earlier
+------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/core/database/drivers/mysql/mysql_driver.php
+---------------------------------------------------------------------------------------------------------------------------
+FOUND 14 ERRORS AFFECTING 14 LINES
+---------------------------------------------------------------------------------------------------------------------------
+  73 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+  93 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 109 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 125 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 143 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 148 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 152 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 181 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 317 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 346 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 359 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 458 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 471 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+ 774 | ERROR | Extension 'mysql_' is deprecated since PHP 5.5 and removed since PHP 7.0; Use mysqli instead
+---------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/core/database/DB_driver.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1231 | WARNING | Since PHP 7.0, functions inspecting arguments, like debug_backtrace(), no longer report the original value as passed to a parameter, but will instead provide
+      |         | the current value. The parameter "$native" was used, and possibly changed (by reference), on line 1218.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Net/SSH1.php
+---------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------------------------------------------
+ 473 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+---------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Net/SSH2.php
+---------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------------------------------------------
+ 785 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+---------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Net/SFTP.php
+---------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------------------------------------------
+ 267 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+---------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Net/SFTP/Stream.php
+----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+----------------------------------------------------------------------------------------------------------------------
+ 135 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+ 175 | WARNING | Global with anything other than bare variables is discouraged since PHP 7.0. Found $$host
+----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Net/SCP.php
+--------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------------------------
+ 126 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+--------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/File/ASN1.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+----------------------------------------------------------------------------------------------------------------
+ 135 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+ 250 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/File/ANSI.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 215 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/File/X509.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 307 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/Hash.php
+-----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------
+ 155 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+-----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/RSA.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 461 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/AES.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 167 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/DES.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 688 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/Blowfish.php
+---------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------------------------------------------------
+ 395 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+---------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/Twofish.php
+--------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------------------------------
+ 474 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+--------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/Rijndael.php
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 8 ERRORS AND 1 WARNING AFFECTING 5 LINES
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+ 702 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+ 837 | ERROR   | Function mcrypt_list_algorithms() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 837 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 856 | ERROR   | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 856 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 857 | ERROR   | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 857 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 862 | ERROR   | Function mcrypt_module_close() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 862 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/RC4.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 180 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/Random.php
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+  67 | ERROR | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+  67 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 106 | ERROR | Function mcrypt_create_iv() is deprecated since PHP 7.1 and removed since PHP 7.2; Use random_bytes() or OpenSSL instead
+ 106 | ERROR | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 106 | ERROR | The constant "MCRYPT_DEV_URANDOM" is deprecated since PHP 7.1 and removed since PHP 7.2
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/Base.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 38 ERRORS AND 3 WARNINGS AFFECTING 24 LINES
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  448 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+  455 | ERROR   | Function mcrypt_list_algorithms() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  455 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  564 | WARNING | Since PHP 7.0, functions inspecting arguments, like func_get_args(), no longer report the original value as passed to a parameter, but will instead provide the
+      |         | current value. The parameter "$method" was used, and possibly changed (by reference), on line 562.
+  638 | ERROR   | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  638 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  671 | ERROR   | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  671 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  674 | ERROR   | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  674 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  679 | ERROR   | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  679 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  688 | ERROR   | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  688 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  702 | ERROR   | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  702 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  705 | ERROR   | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  705 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  867 | ERROR   | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  867 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  895 | ERROR   | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  895 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  900 | ERROR   | Function mcrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  900 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+  915 | ERROR   | Function mdecrypt_generic() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  918 | ERROR   | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+  918 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 1271 | ERROR   | The constant "MCRYPT_MODE_ECB" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 1272 | ERROR   | The constant "MCRYPT_MODE_CBC" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 1274 | ERROR   | The constant "MCRYPT_MODE_NOFB" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 1275 | ERROR   | The constant "MCRYPT_MODE_STREAM" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 1278 | ERROR   | Function mcrypt_module_open() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 1278 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 1279 | ERROR   | Function mcrypt_module_open() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 1279 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 1285 | ERROR   | Function mcrypt_module_open() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 1285 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 1285 | ERROR   | The constant "MCRYPT_MODE_ECB" is deprecated since PHP 7.1 and removed since PHP 7.2
+ 1291 | ERROR   | Function mcrypt_generic_init() is deprecated since PHP 7.1 and removed since PHP 7.2; Use OpenSSL instead
+ 1291 | ERROR   | Extension 'mcrypt' is deprecated since PHP 7.1 and removed since PHP 7.2; Use openssl (preferred) or pecl/mcrypt once available instead
+ 1963 | WARNING | Function create_function() is deprecated since PHP 7.2; Use an anonymous function instead
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/RC2.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 342 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Crypt/TripleDES.php
+----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------------
+ 190 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/Math/BigInteger.php
+----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------------
+ 259 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/phpseclib/System/SSH_Agent.php
+-----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-----------------------------------------------------------------------------------------------------------------------
+ 119 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+ 236 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+-----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/upacp_sdk_php/utf8/func/log.class.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 222 | WARNING | Since PHP 7.0, functions inspecting arguments, like debug_backtrace(), no longer report the original value as passed to a parameter, but will instead provide the
+     |         | current value. The parameter "$iLine" was used, and possibly changed (by reference), on line 206.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Calculation.php
+--------------------------------------------------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------------------------------------------------
+ 2677 | ERROR | "$this" can no longer be used in a plain function or method since PHP 7.1.
+ 2679 | ERROR | "$this" can no longer be used in a plain function or method since PHP 7.1.
+ 2683 | ERROR | "$this" can no longer be used in a plain function or method since PHP 7.1.
+ 2685 | ERROR | "$this" can no longer be used in a plain function or method since PHP 7.1.
+--------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Worksheet/AutoFilter/Column.php
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 384 | ERROR | Indirect access to variables, properties and methods will be evaluated strictly in left-to-right order since PHP 7.0. Use curly braces to remove ambiguity.
+ 386 | ERROR | Indirect access to variables, properties and methods will be evaluated strictly in left-to-right order since PHP 7.0. Use curly braces to remove ambiguity.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Shared/PCLZip/pclzip.lib.php
+---------------------------------------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+---------------------------------------------------------------------------------------------------------------------------------------
+  215 | WARNING | Use of deprecated PHP4 style class constructor is not supported since PHP 7.
+ 5347 | ERROR   | Function set_magic_quotes_runtime() is deprecated since PHP 5.3 and removed since PHP 7.0
+ 5378 | ERROR   | Function set_magic_quotes_runtime() is deprecated since PHP 5.3 and removed since PHP 7.0
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Calculation/Functions.php
+------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------------------------------------------
+ 581 | ERROR | Using 'break' outside of a loop or switch structure is invalid and will throw a fatal error since PHP 7.0
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Calculation/DateTime.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 891 | ERROR | Since PHP 7.0, functions inspecting arguments, like func_get_args(), no longer report the original value as passed to a parameter, but will instead provide the
+     |       | current value. The parameter "$startDate" was changed on line 888.
+ 973 | ERROR | Since PHP 7.0, functions inspecting arguments, like func_get_args(), no longer report the original value as passed to a parameter, but will instead provide the
+     |       | current value. The parameter "$startDate" was changed on line 970.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Calculation/Database.php
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 67 | WARNING | Method name "PHPExcel_Calculation_Database::__fieldExtract" is discouraged; PHP has reserved all method names with a double underscore prefix for future use.
+ 98 | WARNING | Method name "PHPExcel_Calculation_Database::__filter" is discouraged; PHP has reserved all method names with a double underscore prefix for future use.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Calculation/LookupRef.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 373 | ERROR | Since PHP 7.0, functions inspecting arguments, like func_get_args(), no longer report the original value as passed to a parameter, but will instead provide the
+     |       | current value. The parameter "$rows" was changed on line 365.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Writer/Excel5.php
+-------------------------------------------------------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+-------------------------------------------------------------------------------------------------------------------------------
+ 697 | ERROR | Passing the $format(s) "e" to pack() is not supported in PHP 7.0.14 or lower. Found $dataProp['offset']['pack']
+ 699 | ERROR | Passing the $format(s) "e" to pack() is not supported in PHP 7.0.14 or lower. Found $dataProp['type']['pack']
+ 884 | ERROR | Passing the $format(s) "e" to pack() is not supported in PHP 7.0.14 or lower. Found $dataProp['offset']['pack']
+ 886 | ERROR | Passing the $format(s) "e" to pack() is not supported in PHP 7.0.14 or lower. Found $dataProp['type']['pack']
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/Autoloader.php
+-------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------------
+ 33 | WARNING | INI directive 'mbstring.func_overload' is deprecated since PHP 7.2
+-------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PHPExcel/PHPExcel/CachedObjectStorage/SQLite.php
+-----------------------------------------------------------------------------------------------------------------------------------------
+FOUND 9 ERRORS AFFECTING 9 LINES
+-----------------------------------------------------------------------------------------------------------------------------------------
+  63 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+  64 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 108 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 142 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 166 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 211 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 236 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 274 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+ 276 | ERROR | Extension 'sqlite' is removed since PHP 5.4
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/alipay/lib/alipay_core.function.php
+----------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+----------------------------------------------------------------------------------------------------------------------------
+ 19 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 37 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 55 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+----------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/PhpAmqpLib/Connection/AMQPStreamConnection.php
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 44 | WARNING | Since PHP 7.0, functions inspecting arguments, like func_get_args(), no longer report the original value as passed to a parameter, but will instead provide the
+    |         | current value. The parameter "$host" was used, and possibly changed (by reference), on line 39.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/twilio/Twilio/Resource.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------------------------------
+ 74 | WARNING | Function create_function() is deprecated since PHP 7.2; Use an anonymous function instead
+ 93 | WARNING | Function create_function() is deprecated since PHP 7.2; Use an anonymous function instead
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/libraries/unionpay/lib/upmp_core.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------------------------------
+ 21 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 54 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/chunguanghao/Documents/ofashion/projects/trade_center/application/helpers/pub_helper.php
+-----------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-----------------------------------------------------------------------------------------------------
+ 838 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+ 849 | WARNING | Function each() is deprecated since PHP 7.2; Use a foreach loop instead
+-----------------------------------------------------------------------------------------------------
+
+Time: 6 mins, 59.95 secs; Memory: 58.01MB
+
